@@ -15,8 +15,6 @@ This project leverages the Nao robot, utilizing its SDK and artificial intellige
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -66,10 +64,4 @@ To get started, follow these steps:
 - `emo_detection.py`: Detects facial emotions using a trained model.
 - `my_wave.py`: Nao robot's friendly wave response to the user.
 
-## Contributing
 
-Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
